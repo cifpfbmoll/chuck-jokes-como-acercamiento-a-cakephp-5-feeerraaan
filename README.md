@@ -229,5 +229,15 @@ Durante el desarrollo, **al notar que la implementación básica iba lenta**, ut
 
 ---
 
+## 🖼️ Imágenes del funcionamiento
+
+A continuación se muestran capturas de pantalla del proyecto en funcionamiento:
+
+| Inicio | Guardar chiste | Listado de chistes |
+|--------|----------------|--------------------|
+| ![Inicio](images/1.png) | ![Guardar chiste](images/2.png) | ![Listado de chistes](images/3.png) |
+
+---
+
 **📅 Entregado**: 8 de octubre de 2025  
 **👨‍💻 Desarrollo**: Siguiendo guías oficiales + optimizaciones con IA
